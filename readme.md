@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/1257048/227036805-845d3df4-4c87-4a34-92a1-73eb8fc33bac.png)
+![image](https://user-images.githubusercontent.com/1257048/227631946-29850668-5df2-4a80-a061-02806b5c2504.png)
 
 # Pandas
 
