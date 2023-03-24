@@ -1,0 +1,5 @@
+numpy
+coverage
+pytest
+pytest-mock
+requests
