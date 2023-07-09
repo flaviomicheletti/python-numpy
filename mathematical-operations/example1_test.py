@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 
 def test_math_operations1():
     # Create two NumPy arrays
